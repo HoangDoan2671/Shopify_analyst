@@ -19,3 +19,6 @@ Key Insights
 - High customer repurchase rate (46%), indicating that the product and marketing strategy are effective.
 - High LTV ($943.6), suggesting customers tend to spend more over time.
 - High average order value ($562.6), possibly indicating that customers buy high-value products or purchase in bundles.
+
+**PREVIEW DASHBOARD**
+<img width="631" alt="Image" src="https://github.com/user-attachments/assets/e3662eef-e245-4ca1-8d98-38e8d411db36" />
