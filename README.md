@@ -21,4 +21,5 @@ Key Insights
 - High average order value ($562.6), possibly indicating that customers buy high-value products or purchase in bundles.
 
 **PREVIEW DASHBOARD**
+
 <img width="631" alt="Image" src="https://github.com/user-attachments/assets/e3662eef-e245-4ca1-8d98-38e8d411db36" />
